@@ -1,12 +1,13 @@
 package ClassesAndObjects.arul;
 
 public class CreatingClasses {
-    private int x;
+    public static void main(String[] args) {
+        class A{
+            public void test(){
+                System.out.println("hi");
+            }
 
-    public void A()
-    {
-        int val;
+        }
+
     }
-
 }
-
